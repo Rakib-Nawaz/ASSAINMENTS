@@ -10,8 +10,11 @@
       <h1 style="color:whitesmoke; background-color: midnightblue; display:inline; font-family: roboto condensed" > WORK WITH CSS COLOR</h1> <br>
       <h4 style="color:whitesmoke; background-color: crimson; display:inline; font-family: roboto condensed" > Assainment 06</h4>
       <hr>
+      <hr>
       <br>
       <br>
+      <h2 style="color:whitesmoke; background-color: springgreen;  font-family: roboto condensed" > DEFAULT</h2>
+      <hr>
        <p style="color: ;color:crimson; font-family: 'Roboto Condensed', sans-serif;">  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> 
        qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod <br> 
        id voluptatem porro nostrum dolorem!</p>
@@ -77,6 +80,8 @@
       <hr>
       <hr>
       <br>
+      <h2 style="color:whitesmoke; background-color: springgreen;  font-family: roboto condensed" > RGB</h2>
+      <hr>
 
       <p style="color: rgb(0, 128, 128); font-family: 'Roboto Condensed', sans-serif;" "
       >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
@@ -122,6 +127,8 @@
    <hr>
    <hr>
    <br>
+   <h2 style="color:whitesmoke; background-color: springgreen;  font-family: roboto condensed" > HEXA</h2>
+   <hr>
       <p style="color: #8B008B; font-family: 'Roboto Condensed', sans-serif;"
       >THIS IS THE COLOR IN HEXA CODE </p>
       <p style="color: #e631e6; font-family: 'Roboto Condensed', sans-serif;"
@@ -141,6 +148,34 @@
       <p style="color: #fa4251; font-family: 'Roboto Condensed', sans-serif;"
       >THIS IS THE COLOR IN HEXA CODE </p>
       <p style="color: #180ae9; font-family: 'Roboto Condensed', sans-serif;"
-      >THIS IS THE COLOR IN HEXA CODE </p>
+
+    <br>
+    <hr>
+    <hr>
+    <br>
+    <h2 style="color:whitesmoke; background-color: springgreen; font-family: roboto condensed" > RGB-ALPHA</h2>
+    <hr>
+    
+    <P style="color: rgba(255, 0, 0, 1); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.9); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.8); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.7); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.6); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.5); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.4); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.3); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.2); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+    <P style="color: rgba(255, 0, 0, 0.1); background-color: black; font-family: Rbotocondensed; display: inline;"
+    >THIS TEXT IS IN RGB-ALPHA CHANNEL</P><br> <br>
+
         
     </body>
