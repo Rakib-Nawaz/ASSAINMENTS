@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+ <html>
+    <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    </head> 
+    <body>
+      <h1 style="color:whitesmoke; background-color: midnightblue; display:inline; font-family: roboto condensed" > WORK WITH CSS COLOR</h1> <br>
+      <h4 style="color:whitesmoke; background-color: crimson; display:inline; font-family: roboto condensed" > Assainment 06</h4>
+      <hr>
+      <br>
+      <br>
+       <p style="color: ;color:crimson; font-family: 'Roboto Condensed', sans-serif;">  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> 
+       qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod <br> 
+       id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: ;color:yellowgreen; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: lightseagreen; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrodb<r> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: indianred; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrodbr> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: indigo; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrodbr> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: darksalmon; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: deeppink; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color:darkgreen; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color:firebrick; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: mediumvioletred; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: orangered; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: darkgoldenrod; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: gold; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: yellow; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: khaki; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: maroon; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: magenta; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: rebeccapurple; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: royalblue; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <p style="color: olive; font-family: 'Roboto Condensed', sans-serif;"
+      >  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel debitis recusandae, darkgoldenrod<br> qui saepe nobis totam accusantium exercitationem eum culpa, maiores optio dolores deleniti iste eligendi darkgoldenrod<br> id voluptatem porro nostrum dolorem!</p>
+
+      <br>
+      <hr>
+      <hr>
+      <br>
+
+      <p style="color: rgb(0, 128, 128); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(0, 0, 255); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(222, 184, 135); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(184, 134, 11); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(128, 0, 0); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(128, 128, 128); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(47, 79, 79); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(178, 34, 34); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(255, 20, 147); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(219, 112, 147); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(255, 160, 122); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(72, 134, 134); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(60, 13, 53); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(103, 48, 166); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(34, 223, 191); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(176, 35, 52); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(119, 126, 20); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(10, 29, 4); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(63, 97, 22); font-family: 'Roboto Condensed', sans-serif;" 
+      ">THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+      <p style="color: rgb(16, 54, 193); font-family: 'Roboto Condensed', sans-serif;" "
+      >THIS IS THE ASSAINMENT OF  CSS COLORS WHICH IS IN RGB</p>
+   <br>
+   <hr>
+   <hr>
+   <br>
+      <p style="color: #8B008B; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #e631e6; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #25cec0; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #1b0530; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #a0c51b; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #09ee70; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #8ff10e; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #800606; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #fa4251; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+      <p style="color: #180ae9; font-family: 'Roboto Condensed', sans-serif;"
+      >THIS IS THE COLOR IN HEXA CODE </p>
+        
+    </body>
