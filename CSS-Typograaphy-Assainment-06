@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+ <html>
+    <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    <style> 
+          td{ border: 2px solid rgb(0, 0, 0); color: white;}
+          th{text-align: left;}
+          th, td {padding: 10px}
+    </style>
+    <style>
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      </style>
+    </head>
+    <body>
+      <h1 style="font-family: roboto condensed"> WORK WITH CSS TYPOGRAPHY</h1>
+      <h3 style="font-family: roboto condensed"> ASSAINMENT- 06</h3>
+      <hr>
+      <hr>
+      <br>
+      <br>
+      <h1 style="background-color: crimson; "> A Fancy Table </h1>
+      <table style="background-color:#04AA6D; width: 50%; ">
+        <tr>
+          <td align="center" style="font-family: roboto condensed;"> Name </td>
+          <td align="center" style="font-family: roboto condensed;"> Team </td>
+          <td align="center" style="font-family: Roboto condensed"> Phone</td>
+          <td align="center" style="font-family: Roboto condensed"> sex</td>
+          <td align="center" style="font-family: Roboto condensed"> origin</td>
+          <td align="center" style="font-family: Roboto condensed"> booooo</td>
+          <br>
+        <tr> 
+          <td style="font-family: gill sans;">CRISTIANO RONALDO</td>
+          <td style="font-family: gill sans;font-family: roboto condensed"> MAN Utd</td>
+          <td style="font-family: gill sans;">6455512255</td>
+          <td style="font-family: gill sans;">Male</td>
+          <td style="font-family: gill sans; font-family: roboto condensed;">Portugal</td>
+          <td style="font-family: gill sans;">Suiiiiiii</td>
+        </tr>
+        <tr>
+          <td style="font-family: gill sans;">MESSI</td>
+          <td style="font-family: gill sans;font-family: roboto condensed">PSG</td>
+          <td style="font-family: gill sans;">6544512255</td>
+          <td style="font-family: gill sans;">Male</td>
+          <td style="font-family: gill sans;font-family: roboto condensed">ARGENTINA</td>
+          <td style="font-family: gill sans;"> N/A </td>
+        </tr>
+        <td style="font-family: gill sans;">NEYMAR</td>
+        <td style="font-family: gill sans;font-family: roboto condensed">PSG</td>
+        <td style="font-family: gill sans;">8566445866</td>
+        <td style="font-family: gill sans;">Male</td>
+        <td style="font-family: gill sans;font-family: roboto condensed">BRAZIL</td>
+        <td style="font-family: gill sans;"> N/A </td>
+        </tr>
+    
+        
+        <tr> 
+          <td style="font-family: gill sans;">CRISTIANO RONALDO</td>
+          <td style="font-family: gill sans;font-family: roboto condensed"> MAN Utd</td>
+          <td style="font-family: gill sans;">6455512255</td>
+          <td style="font-family: gill sans;">Male</td>
+          <td style="font-family: gill sans;font-family: roboto condensed">Portugal</td>
+          <td style="font-family: gill sans;">Suiiiiiii</td>
+        </tr>
+        <tr>
+          <td style="font-family: gill sans;">MESSI</td>
+          <td style="font-family: gill sans;font-family: roboto condensed">PSG</td>
+          <td style="font-family: gill sans;">6544512255</td>
+          <td style="font-family: gill sans;">Male</td>
+          <td style="font-family: gill sans;font-family: roboto condensed">ARGENTINA</td>
+          <td style="font-family: gill sans;"> N/A </td>
+        </tr>
+        <td style="font-family: gill sans;">NEYMAR</td>
+        <td style="font-family: gill sans;font-family: roboto condensed">PSG</td>
+        <td style="font-family: gill sans;">8566445866</td>
+        <td style="font-family: gill sans;">Male</td>
+        <td style="font-family: gill sans;font-family: roboto condensed">BRAZIL</td>
+        <td style="font-family: gill sans;"> N/A </td>
+        </tr>
+      </table>
+      <br>
+      <br>
+      <br> 
+        <p style="font-family: arial black; font-size: small; "
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: smaller;"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: x-small;"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: medium;"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: large;"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: larger;"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: x-large"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+        <p style="font-family: arial black; font-size: xx-large;"
+        >THE QUICK BROWN FOX JUMP OVER THE LAZY DOG</p>
+      <br>
+      <br>
+        <p style="font-family: gill sans; font-size: small "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: smaller "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: x-small "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: medium "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: large "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: larger "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: x-large "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: gill sans; font-size: xx-large "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <br>
+        <br>
+        <p style="font-family: Courier New; font-size: small "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: smaller "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: x-small "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: medium "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: large "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: larger "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: x-large "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+        <p style="font-family: Courier New; font-size: xx-large "
+        >THIS IS LOREM ISPUUM SIT SIM SUM LOREM AFAFK WAFKA</p>
+      
+      
+        
+    </body>
