@@ -1,0 +1,322 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+ <html>
+    <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    </head> 
+    <body>
+      <h1> BUTTON >>> COLOR, BRODER, PADDING, BG, FONT FAMILY, SIZE</h1>
+      <h2> ASSAINMENT-10</h2>
+      <HR>
+        <HR>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif; margin-left: 20px; margin-top: 20px; width: 100px; height: 100px; "> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif; width: 100px; height: 80px;"> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif width: 100px; height: 60px; "> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif; width: 100px; height: 50px; "> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif; width: 100px; height: 40px;"> CALL ME</button> 
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif;  width: 100px; height: 30px;"> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif"> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif"> CALL ME</button>
+         <button style="background-color: #B53471; color:azure; 
+         font-family:Georgia, 'Times New Roman', Times, serif"> CALL ME</button>
+         <br>
+         <br>
+         <br>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 100px; border-radius: 20px; font-weight: bold;"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 90px; border-radius: 30px; font-weight: bolder;"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 80px; border-radius: 40px"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 70px; border-radius: 60px"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 60px; border-radius: 80px"> HIRE ME </button> <br> <br>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 50px; border-radius: 90px"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 40px; border-radius: 100px"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 30px; border-radius: 120px"> HIRE ME </button>
+         <button style="background-color: #0652DD; color:azure; font-family:cursive; 
+         width: 100px; height: 20px; text-align: center; border-radius: 140px"> HIRE ME </button>
+
+         <br>
+         <br>
+         <br>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #90f700;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button> <br> <br>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <button style="background-color: #1B1464; color: azure; font-family:fantasy; width: 100px; height: 30px; border: 2px solid #73AD21;"> WHY ME ? </button>
+         <br>
+         <br>
+         <br>
+         <button style="background-color: #1B1464; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #1500ff; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #0077ff; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #ff00ea; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #ff0015; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button><br> <br>
+         <button style="background-color: #060044; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #96f300; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #008316; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #ff0095; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #ff9900; color: azure; 
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"> NOTIFY ME </button>
+          <BR>
+          <BR>
+          <BR>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button> <br> <br>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <button style="background-color: #fbc531; color: bl\; 
+         font-family:'Courier New', Courier, monospace"> CONTACT ME </button>
+         <br>
+         <br>
+         <br>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 1px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 3px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 5px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 7px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 9px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 11px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 13px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 15px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 17px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 19px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 21px; "> CALL ME</button> <BR> <br>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 23px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 25px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 27px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 29px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 31px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 33px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 35px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 37px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 39px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 41px; "> CALL ME</button>
+         <button style="background-color: crimson; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 43px; "> CALL ME</button>
+         <br>
+         <br>
+         <br>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 46px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 44px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 42px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 40px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 38px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 36px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 34px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 32px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 30px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 28px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 26px;"> HIRE ME </button> <br> <br>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 24px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 22px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 20px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 18px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 16px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 14px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 12px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 10px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 8px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 6px;"> HIRE ME </button>
+         <button style="background-color: black; color: azure; font-family: 
+         'Franklin Gothic Medium'; border-radius: 0px;"> HIRE ME </button>
+         <br>
+         <br>
+         <br>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif;padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif; padding: 20px;"> WHY ME? </button>
+<br> <br>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <button style="background-color: #12CBC4; color:azure; 
+         font-family:'Times New Roman', Times, serif"> WHY ME? </button>
+         <br>
+         <br>
+         <br>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button><br> <br>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+         <button style="background-color: #5758BB; color:azure; 
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"> NOTIFY ME </button>
+          <BR>
+          <BR>
+          <BR>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button> <br> <br>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+         <button style="background-color: #192a56; color:azure; 
+         font-family: Tahoma "> CONTACT ME </button>
+
+    </body>
