@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+ <html>
+    <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    </head> 
+    <body>
+
+         <H1>
+            IMAGE--- BORDER, RADIUS, Width, HEIGHT, SHADOW 
+         </H1>
+         <H2>
+            ASSAINMENT-11
+         </H2>
+         <HR>
+         <HR>
+         <BR>
+         <BR>
+
+        <img src="https://i.postimg.cc/zfj0fYZN/pexels-admiral-general-m-godshepherdly-737586.jpg" alt="nature" 
+        width="350px;" style="border-radius: 50%; border-style: solid; border-width: 10px;  color: #e84118;">
+        <img src="https://i.postimg.cc/1tBTbN5p/pexels-aidil-bahaman-2748242.jpg" alt="nature" 
+        width="550px " style="border-radius: 50%; border-style: solid; border-width: 5px;  color: #e84118;" >
+        <img src="https://i.postimg.cc/DzZBmY2b/pexels-aleksandar-pasaric-2385210.jpg" alt="nature" 
+        width="350px" style="border-radius: 30%; border-style:dotted; border-width: 15px;  color: #2923d8;" >
+        <img src="https://i.postimg.cc/v8pjkMG2/pexels-assedrani-official-12616563.jpg" alt="nature" 
+        width="200px " style="border-radius: 20% ;border-style:dotted; border-width: 15px;  color: #040237;">
+        <img src="https://i.postimg.cc/fb9M4C6Y/pexels-denys-gromov-4669251.jpg" alt="nature" 
+        width="450px " style="border-radius: 60% ; border-style:dashed; border-width: 15px;  color: #ff0090; box-shadow: 20px 20px 50px black;" >
+        <img src="https://i.postimg.cc/ydLQL4vj/pexels-drew-williams-3098619.jpg" alt="nature" 
+        width="350px " style="border-radius: 70%; border-style:double; border-width: 15px;  color: #ff0011;" >
+        <img src="https://i.postimg.cc/3NWL6SqT/pexels-engin-akyurt-1706776.jpg" alt="nature" 
+        width="400px " style="border-radius: 30% ; border-style:solid; border-width: 15px;  color: #00ff40;">
+        <img src="https://i.postimg.cc/XYhnDmDV/pexels-evan-velez-saxer-9486888.jpg" alt="nature" 
+        width="350px " style="border-radius: 50px ; border-style: dotted; border width: 15px;">
+        <img src="https://i.postimg.cc/xT8DDgmq/pexels-jaime-flores-2521471.jpg" alt="nature" 
+        width="350px; " style="border-radius: 50px ; border-style: dotted; border width: 15px;" >
+        <img src="https://i.postimg.cc/rytZSb51/pexels-kaique-rocha-598917.jpg" alt="nature" 
+        width="350px; " style="border-radius: 50px ; border-style: double; border width: 15px;" >
+        <img src="https://i.postimg.cc/3R8fjJCW/pexels-matheus-bertelli-2376991.jpg" alt="nature" 
+        width="350px; " style="border-radius: 50px ; border-style: dashed; border width: 15px;" >
+        <img src="https://i.postimg.cc/nrdy99yH/pexels-mitchell-luo-5896356.jpg" alt="nature" 
+        width="350px; " style="border-radius: 50px ; border-style:none; border-width: 15px;  color: #d18b00;" >
+        <img src="https://i.postimg.cc/5NL50WLr/pexels-nicolay-quissanga-m-13392787.jpg" alt="nature" 
+        width="350px; " style="border-radius: 50px ; border-style: inset; border width: 15px;" >
+        <img src="https://i.postimg.cc/63pz2btv/pexels-paul-theodor-oja-2792116.jpg" alt="nature" 
+        width="550px; " style="border-radius: 50px ; border-style: outset; border width: 15px;" >
+        <img src="https://i.postimg.cc/QMXJwYBy/pexels-pixabay-267961.jpg" alt="nature" 
+        width="350px " style="box-shadow: 20px 20px 50px grey;" >
+        <img src="https://i.postimg.cc/wMPWd5Ks/pexels-roberto-shumski-6102228.jpg" alt="nature" 
+        width="500px " style="box-shadow: 20px 20px 50px rgb(221, 0, 0);" >
+        <img src="https://i.postimg.cc/q78WX5PD/pexels-satria-bagaskara-1567730.jpg" alt="nature" 
+        width="350px " style="box-shadow: 20px 20px 40px #273c75;" >
+        <img src="https://i.postimg.cc/Y0qcSzyn/pexels-sornbhakkanut-boonprasop-2646483.jpg" 
+        alt="nature" width="400px " style="box-shadow: 20px 20px 50px 10px rgb(0, 102, 255);" >
+        <img src="https://i.postimg.cc/KzhxmL2w/pexels-ti-u-b-o-tr-ng-10502519.jpg" alt="nature" 
+        width="350px " style="box-shadow: 30px 30px 50px 10px red;" >
+        <img src="https://i.postimg.cc/25pPWDKB/pexels-13407401.jpg" alt="nature" width="350px " >
+
+    </body>
